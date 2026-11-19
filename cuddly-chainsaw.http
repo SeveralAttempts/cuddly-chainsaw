@@ -1,0 +1,6 @@
+@cuddly_chainsaw_HostAddress = http://localhost:5149
+
+GET {{cuddly_chainsaw_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
